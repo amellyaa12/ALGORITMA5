@@ -11,4 +11,4 @@ setcookie("user", "Amellya!", time() + (3600), "/");
 // Mengatur expiry time ke satu jam yang lalu
 setcookie("user", "", time() - 3600);
 
-echo "<p><strong>By Amellya</strong>";
+echo "<p><i><strong>By Amellya</strong>";
