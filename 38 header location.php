@@ -1,5 +1,5 @@
 <?php
-header("Location:http://localhost/MEYLISA%20Xl%20RPL%202/ALGORITMA5/proses%20php%20meylisa%20.php");
+header("Location:http://localhost/Amellya/ALGORITMA5/membuat%20proses%20perkenalan.php");
 exit; // Selalu panggil exit setelah header location untuk menghentikan eksekusi skrip
 header("Content-Type: application/pdf");
 // Kode untuk mengirimkan file PDF
